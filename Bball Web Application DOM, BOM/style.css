@@ -1,0 +1,58 @@
+.playerContainer{
+    border:solid #3B1EC7;
+    border-width: 10px;
+    background-color:#9581E0 ;
+    color: white;
+   
+}
+
+
+.body{
+   background-color: #12092B;
+}
+
+
+.title{
+    color: #9581E0;
+}
+
+
+.logo{
+    margin-left: 35%;
+    width: 35%;
+ 
+}
+
+
+.Pic{
+    height: 135px;
+    border:solid #3B1EC7;
+    border-width:8px ;
+}
+
+
+.StatBtn{
+    background-color: #9581E0;
+    color: white;
+}
+
+
+.comments{
+    border:solid #3B1EC7;
+    border-width: 10px;
+    background-color:#9581E0 ;
+    color: white;
+}
+/*#3B1EC7
+#12092B
+#9581E0*/
+
+
+
+
+
+
+
+
+
+
